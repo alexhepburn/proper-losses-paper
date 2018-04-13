@@ -1,5 +1,6 @@
 # Proper Losses for Learning with Example-Dependent Costs
 by Alexander Hepburn, Ryan McConville, Raul Santos-Rodriguez, Jesus Cid-Sueiro and Dario Garcia-Garcia 
+
 This is a github repopository containing code needed to reproduce the results found in the paper.
 
 ## Prerequesites
