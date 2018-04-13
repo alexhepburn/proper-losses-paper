@@ -15,5 +15,7 @@ For German Credit case study : https://archive.ics.uci.edu/ml/datasets/statlog+(
 
 For Music genre classificaiton: 
 https://labrosa.ee.columbia.edu/millionsong/
+
 http://www.ifs.tuwien.ac.at/mir/msd/
+
 https://labrosa.ee.columbia.edu/millionsong/tasteprofile
