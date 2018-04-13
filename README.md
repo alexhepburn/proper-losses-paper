@@ -5,11 +5,11 @@ This is a github repopository containing code needed to reproduce the results fo
 
 ## Prerequesites
 You will need :
-pytorch (if you don't have a GPU you need to remove all the .cuda() commands on the pytorch variables)
-torchvision
-scikit-learn
-CostCla
-Pandas
+pytorch (if you don't have a GPU you need to remove all the .cuda() commands on the pytorch variables),
+torchvision, 
+scikit-learn, 
+CostCla, 
+Pandas, 
 
 You will also need the files of the datasets used. 
 For German Credit case study : https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
