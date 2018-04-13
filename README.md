@@ -12,6 +12,7 @@ Pandas
 
 You will also need the files of the datasets used. 
 For German Credit case study : https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+
 For Music genre classificaiton: 
 https://labrosa.ee.columbia.edu/millionsong/
 http://www.ifs.tuwien.ac.at/mir/msd/
