@@ -1,0 +1,7 @@
+numpy==1.15.0
+pandas==0.23.3
+torch==0.4.1
+torchvision==0.2.1
+scikit-learn==0.19.2
+costcla==0.5
+tqdm==4.24.0
